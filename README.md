@@ -1,0 +1,2 @@
+# connect-fragmented-information-community-example
+This example demonstrates how disparate pieces of information can be brought together and made interactive, simulating the creation of a connected community. It addresses the problem of "fragmented information structure and learning environments lacking real interaction" by allowing users to link related content and discussions. This fosters a more
